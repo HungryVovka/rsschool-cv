@@ -1,5 +1,5 @@
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Programmer and economist. I have two higher educations, a bachelor's degree in economics and a master's degree in finance. Programming in Python, but also learning other programming languages. I know Django, TensorFlow and Keras frameworks.
+Programmer and economist. I am interested in everything that I can take on and constantly improve my professional skills in languages and their frameworks. Despite the lack of an official profile education in programming, I am engaged in self-study.
 
 # Codewars
 Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
@@ -30,6 +30,33 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   Russian - native language
 
 ## 🛠 Technical Stack
-*   Python, JavaScript languages
-*   HTML5, CSS3
-*   Django, Matplotlib, Keras, TensorFlow
+*   Python, JavaScript, Visual Basic languages
+*   HTML, CSS
+*   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
+*   I repair and modify old and new PCs and laptops.
+
+## 🖥️ Code example
+```javascript
+function animals(heads, legs){
+  var farm = [];
+  farm.push(2*heads - legs/2);
+  farm.push(legs/2 - heads);
+  if (legs % 2 == 0 && farm[0] >= 0 && farm[1] >= 0){
+    return farm;
+  } else {
+    return 'No solutions';
+  }
+}
+```
+## 🖥️ Project
+* Improving the methodology for assessing the effectiveness of planning regional expenditures (on the example of the budgets of the subjects of the Volga Federal District)
+  + The methodology for evaluating the efficiency of spending planning in the constituent entities of the Russian Federation has been improved
+
+## 👨‍🎓 Education
+* Kalashnikov Izhevsk State Technical University (ISTU)
+  + Bachelor, Economics
+  + Magister, Finance and credit
+* Perm National Research Polytechnic University (PNRPU)
+  + 1C: Accounting
+* The Rolling Scopes School (RS School)
+  + JS/FE pre-school 2022Q2 (JavaScript)
